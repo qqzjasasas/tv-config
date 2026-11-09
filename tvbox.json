@@ -4,7 +4,7 @@
       "key": "ffzy",
       "name": "非凡资源",
       "type": 0,
-      "api": "http://api.ffzyapi.com/api.php/provide/vod",
+      "api": "https://api.ffzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -13,25 +13,7 @@
       "key": "bdzy",
       "name": "百度云资源",
       "type": 0,
-      "api": "http://api.apibdzy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "jszy",
-      "name": "极速资源",
-      "type": 0,
-      "api": "https://jszyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "iqiyi",
-      "name": "爱奇艺资源",
-      "type": 0,
-      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
